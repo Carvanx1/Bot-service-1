@@ -1,3 +1,2 @@
-logging
-telegram.Update
+telebot
 python-telegram-bot==20.3
