@@ -1,1 +1,3 @@
-# حط مكاتبك
+logging
+telegram.Update
+python-telegram-bot==20.3
